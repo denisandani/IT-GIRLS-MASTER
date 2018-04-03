@@ -557,7 +557,7 @@ p {
 }
 
 .marbot2 {
-    margin-bottom: 5%!important;
+    margin-bottom: 3%!important;
 }
 
 .anmted-fill-none {
@@ -587,6 +587,10 @@ p {
 
 .padat {
     padding-top: 20px;
+}
+
+.padat10 {
+    padding-top: 10px;
 }
 
 .padtom {
