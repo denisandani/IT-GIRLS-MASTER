@@ -596,30 +596,18 @@ p {
 .padtom {
     padding-bottom: 30px;
 }
+
 .padtom60 {
     padding-bottom: 60px;
 }
 
-.top2 {
-    margin-top: 40px;
-}
 
 .center {
     margin: auto;
     width: 100%;
 }
 
-@media screen and (min-width: 481px) {
-    .size-img img {
-        width: 50%;
-    }
-}
 
-@media screen and (max-width: 481px) {
-    .size-img img {
-        width: 95%;
-    }
-}
 
 
 
